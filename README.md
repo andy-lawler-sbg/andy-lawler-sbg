@@ -1,7 +1,9 @@
 ## Hi, I’m Andy
 
-- I’m interested in Swift/SwiftUI/React-Native
--  I’m currently learning more about React/React-Native/TypeScript
+- I love all things mobile 📱
+- I mainly work within the iOS ecosystem 🍎
+- I enjoy working with Swift and developing apps with UIKit & SwiftUI 👨🏻‍💻
+- I also enioy working with React/React-Native and Typescript 🌱
 
 <!---
 andy-lawler-sbg/andy-lawler-sbg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
